@@ -1,0 +1,11 @@
+cmd:
+
+python -m venv .
+
+./Scripts/activate
+
+
+python -m pip install requests
+
+
+python -m pip install sqlalchemy
